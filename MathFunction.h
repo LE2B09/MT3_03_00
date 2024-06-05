@@ -14,6 +14,9 @@
 #include <cmath>
 #include <corecrt_math_defines.h>
 
+/// <summary>
+/// ベクトルと行列を合わせたクラス
+/// </summary>
 class MathFunction
 {
 public:
